@@ -1,0 +1,63 @@
+<!Doctype html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>MY RESUME</title>
+    </head>
+    <body>
+        <style>
+            html{
+                margin-top:1.5px;
+                margin-bottom: 1.5px;
+                margin-left: 1.5px;
+                margin-right: 1.5px;
+                font-size: 11px;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            h2{
+                background-color: blue;
+                font-size: large;
+                text-align: center;
+                color: white;
+            }
+            h3{
+                font-size: medium;
+                color: blue;
+                
+            }
+            p{
+                color:black;
+                text-align: left;
+            }
+            hr{
+                    color:blue;
+                }
+            
+        </style>
+        <h2>TEESHA<br>Teeshaagg@gmail.com    8448716211<br>Linkedin:teesha-33b43031b</h2>
+      
+        <h3>Profile Summary</h3>
+        <p>
+           
+            
+            <p>Hello! I'm a passionate self-taught programmer and a final-year BCA student with a strong foundation in Python, C, and C++. I enjoy building full-stack web applications and working on data-driven projects.</p>
+            
+             <p> I'm currently learning full-stack development from Udemy, working on hands-on projects, and exploring my interest in AI and software development. I love solving real-world problems and continuously improving my skills.</p>
+        </p><hr>
+        <h3>Skills</h3>     
+        <h4>Programmimg Language:</h4>
+       
+        
+        <p>Python, C++, Java(basics)</p>
+        <h4>Technologies:</h4>
+        <p>DBMS, OOPs, Web Development</p><hr>
+            
+       <h3>Education</h3>
+       <p ><b>Bachelor of Computer Applications (BCA)</b><br/>-Indira Gandhi National Open University </p>
+       <p ><b>Class XII</b><br/>-Rajkiya Pratibha Vikas Vidyalaya (80.2%) </p>
+       <p ><b>Class X</b><br/>-Rajkiya Pratibha Vikas Vidyalaya (91.2%) </p><hr>
+    <h3>Projects</h3><hr>
+
+       
+
+    
